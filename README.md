@@ -2,7 +2,8 @@ This is an example space for adding an overview of your project
 
 # 🐱 KittenCareOS
 
-![A playful kitten](https://wallpaperaccess.com/full/12458.jpg)
+<img width="472" height="280" alt="image" src="https://github.com/user-attachments/assets/cbd6dc19-82c3-419c-986f-9742d2c40d39" />
+
 
 ## Caring for your kitten
 
